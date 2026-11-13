@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Overview & Apple-Grade Minimalist Aesthetic
+## 📌 Overview
 **ShipSync** is a production-grade multi-vendor logistics and dispatch platform featuring an Apple-like minimalist white and grey glassmorphic aesthetic (`backdrop-blur-2xl`, translucent white/grey glass panels, hairline borders).
 - **Background**: Pure white `#ffffff` canvas accented with subtle architectural micro-grid lines (`bg-apple-grid`).
 - **Overscroll Prevention**: Native pull-to-bounce disabled on top and bottom (`overscroll-behavior: none`).
